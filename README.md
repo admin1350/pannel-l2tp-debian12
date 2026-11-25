@@ -3,6 +3,7 @@
 Далее
 ```bash
 apt install lua5.4
+apt update && apt install -y build-essential libssl-dev m4
 ```
 Установка панели 
 ```bash
